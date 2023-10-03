@@ -39,14 +39,8 @@ const About = () => {
         className="flex items-center min-[1000px]:flex-row flex-col-reverse"
       >
         <p className="mt-4 text-white text-[17px] min-[1000px]:max-w-lg w-full leading-[30px]">
-          Hello, my name is Duan Chen and I was born and raised in San Francisco. I’m currently attending 
-          San Francisco’s City College and pursuing an associate’s degree in Computer Science. While struggling 
-          to figure out what specific field of Computer Science I wanted to divulge in, I joined a micro-internship 
-          with Open Avenues in collaboration with Spark Capital and learned about investment analysis. After that 
-          opportunity, I got obsessed with finance and began reading books to learn more. My favorite author is 
-          Benjamin Graham and that’s because of his book, Intelligent Investor, that has opened up an entire profession 
-          and discipline to me. Now, for my future, I know that I want to work in Financial Tech creating tools 
-          that will help me and others make more informed financial decisions. 
+          Hello, my name is Duan Chen and I'm a second year computer science student at the City College of San Francisco 
+          graduating in May 2024. 
         </p>
 
         <Tilt className="xs:w-[350px] xs:h-[350px] w-full h-full m-auto max-[1000px]:my-14">

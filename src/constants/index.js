@@ -177,7 +177,7 @@ import {
     {
       name: "Stock Screener",
       description:
-        "duanchen.netlify.app is a single page web application that grabs data from four different APIs (twelvedata, alphavantage, mboum finance, polygon) to display stock data.",
+        "dcstockscreener.netlify.app is a single page React application that grabs data from four different APIs (twelvedata, alphavantage, mboum finance, polygon) to display stock data.",
       tags: [
         {
           name: "React",
